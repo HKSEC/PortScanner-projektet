@@ -54,4 +54,4 @@ bash
 git clone https://github.com/Halalkid/Individuella-projektet.git
 cd Individuella-projektet
 
-<img width="1376" height="768" alt="Flowchart_portscanner" src="https://github.com/user-attachments/assets/3da01b3d-20ed-4850-8e9e-8a67f495cc7e" />
+
