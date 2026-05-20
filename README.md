@@ -6,7 +6,7 @@
 
 
 
-# Individuella-projektet
+# Port Scanner Project
 
 Cybersecurity port scanner project
 A multi-threaded port scanner developed in Python for educational purposes. This tool can scan open ports on a target IP address, identify services, and grab banners.
